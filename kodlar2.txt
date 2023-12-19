@@ -1,2 +1,6 @@
 print(hello world);
 print(merhaba);
+
+canı güncelle
+
+savunmayı arttır

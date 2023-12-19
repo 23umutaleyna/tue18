@@ -1,7 +1,3 @@
 print("merhaba");
 print("kodland");
 print("kuzeyler");
-
-print("eymen");
-print("betül");
-print("merhaba kodland dünyası");
